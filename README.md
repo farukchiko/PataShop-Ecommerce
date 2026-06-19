@@ -55,7 +55,7 @@ Ikuti langkah-langkah berikut untuk menjalankan PataShop di komputer lokal Anda:
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/farukchiko/patashop-backend.git
+   git clone https://github.com/mparuk/patashop-backend.git
    cd patashop-backend
    ```
 
